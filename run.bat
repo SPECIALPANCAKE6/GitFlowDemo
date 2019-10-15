@@ -1,1 +1,1 @@
-start "" cmd /c "echo hello world&echo(&pause"
+start "" cmd /c "echo Hello World!&echo(&pause"
